@@ -1,0 +1,32 @@
+.txex{
+  width: 30px;
+  heigth: 150px;
+  vertical-align: middle;
+  border-radius: 5px;
+  text-align:center;
+}
+.txt{
+  font-size: 20px;
+  font-weight: bold;
+  text-align:right;
+}
+.main{
+  width: 400px;
+  heigth: 600px;
+/*  border: 1px solid #f00;*/
+ /* margin:auto;*/
+}
+#Go{
+  width: 40px;
+  heigth: 50px;
+  margin:auto;
+  font-size:20px;
+}
+#result{
+  width:150px;
+  height:50px;
+  margin:auto;
+  font-size:20px;
+  background-color:pink;
+  text-align:center;
+}
